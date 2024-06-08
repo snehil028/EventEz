@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: #b5838d;
+}
+
+html,class{
+    width :100%;
+    width:100%;
+}
+.navbar{
+    display:flex;
+    margin:50px;
+}
+.id{
+    background-color: #ffffff;
+    color :#e26d5c;
+    height : 35px;
+    width : 150px;
+    text-align: centre;
+}
+
+    .id2{
+        background-color: #ffffff;
+        color :#e26d5c;
+        height : 35px;
+        width : 150px;
+        text-align: centre;
+    }
+}
